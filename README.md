@@ -1,2 +1,2 @@
-# DeadHack
-Another mod or "hack" menu for Geometry Dash except its more violent, eat my shorts.
+# DeadHack (dont use yet)
+## This is highly under destruction, If you have actual good suggestions then do a PR.
