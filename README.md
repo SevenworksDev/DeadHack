@@ -1,2 +1,3 @@
-# DeadHack (dont use yet)
-## This is highly under ~~destruction~~ construction, If you have actual good suggestions then do a PR.
+# DeadHack
+## Best mod/hack menu made for Geometry Dash players on Windows
+fight me absollute
