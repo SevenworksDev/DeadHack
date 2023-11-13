@@ -3,5 +3,10 @@
     "name": "GDProxy",
     "description": "Proxy for Geometry Dash, made for users who don't want to use a VPN to interact with the Geometry Dash servers.",
     "download": "https://github.com/SevenworksDev/DeadHack/raw/main/tools/GDProxy.zip"
+  },
+  {
+    "name": "FilterBypass",
+    "description": "Bypass profanity filter in Geometry Dash comments.",
+    "download": "https://github.com/SevenworksDev/DeadHack/raw/main/tools/FilterBypass.zip"
   }
 ]
