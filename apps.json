@@ -8,5 +8,10 @@
     "name": "FilterBypass",
     "description": "Bypass profanity filter in Geometry Dash comments.",
     "download": "https://github.com/SevenworksDev/DeadHack/raw/main/tools/FilterBypass.zip"
+  },
+  {
+    "name": "Song Location Finder",
+    "description": "",
+    "download": "https://github.com/SevenworksDev/DeadHack/raw/main/tools/Song%20Location%20Finder.zip"
   }
 ]
